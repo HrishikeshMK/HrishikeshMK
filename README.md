@@ -8,7 +8,14 @@ I am **Hrishikesh** (you can call me Hrishi (*ri-shi*)), a Junior pursuing Compu
 ### 🧠 I am familiar with ...
 - **Languages**: Javascript, Python, C++, C, Prolog, SQL, Java
 - **Frameworks**: Tensorflow, Pytorch
-
+### 😄 During free time I like doing the following things
+- Playing basketball 🏀
+- Playing the violin 🎻
+- Sprinting 🏃‍♂️
+- Singing 🎵
+- Pumping iron 🏋️‍♂️
+- Playing table tennis 🏓
+- Swimming 🏊‍♂️
 <!--
 **HrishikeshMK/HrishikeshMK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
