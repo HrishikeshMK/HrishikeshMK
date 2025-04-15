@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there! 👋
+I am **Hrishikesh** (you can call me Hrishi (*ri-shi*)), a Junior pursuing Computer Science at BITS PILANI University! I like solving problems for fun, 😁 and am open to exploring different fields in Computer Science.
+### 🔭 I’m currently working on ...
+### 🌱 I’m currently learning ...
+- Deep Learning
+- Computer Vision
+- Natural Language Processing 
+### 🧠 I am familiar with ...
+- **Languages**: Javascript, Python, C++, C, Prolog, SQL, Java
+- **Frameworks**: Tensorflow, Pytorch
 
 <!--
 **HrishikeshMK/HrishikeshMK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
