@@ -1,6 +1,8 @@
 ## Hi there! 👋
 I am **Hrishikesh** (you can call me Hrishi (*ri-shi*)), a Junior pursuing Computer Science at BITS PILANI University! I like solving problems for fun, 😁 and am open to exploring different fields in Computer Science.
 ### 🔭 I’m currently working on ...
+- Creating a compiler for a toy language
+- a trend analysis and recommender system
 ### 🌱 I’m currently learning ...
 - Deep Learning
 - Computer Vision
