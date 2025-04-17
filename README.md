@@ -19,9 +19,9 @@ I am **Hrishikesh** (you can call me Hrishi (*ri-shi*)), a Junior pursuing Compu
 - Playing table tennis 🏓
 - Swimming 🏊‍♂️
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HrishikeshMK/HrishikeshMK/output/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HrishikeshMK/HrishikeshMK/output/dist/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/HrishikeshMK/HrishikeshMK/output/dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HrishikeshMK/HrishikeshMK/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HrishikeshMK/HrishikeshMK/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HrishikeshMK/HrishikeshMK/output/github-contribution-grid-snake.svg">
 </picture>
 <!--
 **HrishikeshMK/HrishikeshMK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
