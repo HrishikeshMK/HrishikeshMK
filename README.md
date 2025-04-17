@@ -18,7 +18,7 @@ I am **Hrishikesh** (you can call me Hrishi (*ri-shi*)), a Junior pursuing Compu
 - Pumping iron 🏋️‍♂️
 - Playing table tennis 🏓
 - Swimming 🏊‍♂️
-<img src="https://raw.githubusercontent.com/HrishikeshMK/HrishikeshMK/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/HrishikeshMK/HrishikeshMK/output/snake.svg" alt="Run animation" />
 <!--
 **HrishikeshMK/HrishikeshMK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
