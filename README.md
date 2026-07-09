@@ -1,15 +1,19 @@
 ## Hi there! 👋
 I am **Hrishikesh** (you can call me Hrishi (*ri-shi*)), a Junior pursuing Computer Science at BITS PILANI University! I like solving problems for fun, 😁 and am open to exploring different fields in Computer Science.
 ### 🔭 I’m currently working on ...
-- Creating a compiler for a toy language
+- A Jira clone
 - a trend analysis and recommender system
 ### 🌱 I’m currently learning ...
 - Deep Learning
 - Computer Vision
-- Natural Language Processing 
+- Natural Language Processing
+- Advanced algorithms
 ### 🧠 I am familiar with ...
-- **Languages**: Javascript, Python, C++, C, Prolog, SQL, Java
-- **Frameworks**: Tensorflow, Pytorch
+- **Languages**: Javascript, Python, C++, C, Prolog, SQL, Java, HTML/CSS
+- **Frameworks**: Tensorflow, Pytorch, Spring Boot, React.js, Node.js, PySpark, Flask, Pandas
+- **Databases**: Solr, OrientDB, MongoDB, MySQL, PL SQL, PostgreSQL
+- **Tools**: Git, Docker, Kubernetes, PostMan, Grafana, Prometheus, Newrelic
+- 
 ### 😄 During free time I like doing the following things
 - Playing basketball 🏀
 - Playing the violin 🎻
