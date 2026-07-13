@@ -1,5 +1,7 @@
 ## Hi there! 👋
 I am **Hrishikesh** (you can call me Hrishi (*ri-shi*)), a graduate in Computer Science from BITS PILANI University! I like solving problems for fun, 😁 and am open to exploring different fields in Computer Science.
+My motto
+> "Jack of all trades and master at some"
 ### 🔭 I’m currently working on ...
 - A Jira clone
 - a trend analysis and recommender system
